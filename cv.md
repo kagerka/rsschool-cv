@@ -44,34 +44,43 @@ String.prototype.toAlternatingCase = function () {
 
 ## WORK EXPERIENCE
 
-> `Universal Electronic Card` > _February 2013 - December 2019_
-> Company site administration, publishing information using 1C-Bitrix, including design and HTML coding.
+`Universal Electronic Card`  
+_February 2013 - December 2019_  
+Company site administration, publishing information using 1C-Bitrix, including design and HTML coding.
 
-> `Promotion Group` > _November 2011 - February 2013_
-> SEO-optimization of web-pages for Yandex and Google search engines.
+`Promotion Group`  
+_November 2011 - February 2013_  
+SEO-optimization of web-pages for Yandex and Google search engines.
 
-> `TsNIGRI` > _November 2002 - November 2011_
-> The designer of printed products such as books, magazines, booklets, posters using Adobe In-Design, Adobe Illustrator, Adobe Photoshop.
+`TsNIGRI`  
+_November 2002 - November 2011_  
+The designer of printed products such as books, magazines, booklets, posters using Adobe In-Design, Adobe Illustrator, Adobe Photoshop.
 
 ## EDUCATION
 
-> `Moscow Polytechnic University` > _September 2002 - June 2008_
-> Institute of Publishing and Journalism – Publishing and editing 🢧 Diploma
+`Moscow Polytechnic University`  
+_September 2002 - June 2008_  
+Institute of Publishing and Journalism – Publishing and editing
 
-> `The Rolling Scopes School` > _July 2021 - October 2021_
-> React 2021Q3 🢧 Certificate
+`The Rolling Scopes School`  
+_July 2021 - October 2021_
+React 2021Q3
 
-> `The Rolling Scopes School` > _December 2020 - July 2021_
-> JavaScript / Frontend 2021Q1 🢧 Certificate
+`The Rolling Scopes School`  
+_December 2020 - July 2021_
+JavaScript / Frontend 2021Q1
 
-> `National Platform of Open Education` > _February 2020 - April 2020_
-> Online course of Web-development
+`National Platform of Open Education`  
+_February 2020 - April 2020_
+Online course of Web-development
 
-> `Training center “Professional”` > _September 2019 - November 2019_
-> Web-development 🢧 Diploma
+`Training center “Professional”`  
+_September 2019 - November 2019_
+Web-development
 
-> `Moscow Institute of Foreign Languages` > _October 2009 - June 2011_
-> Basic English course
+`Moscow Institute of Foreign Languages`  
+_October 2009 - June 2011_
+Basic English course
 
 ## ENGLISH LEVEL
 
